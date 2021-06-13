@@ -13,3 +13,8 @@ The function we used here is: ![CodeCogsEqn (2)](https://user-images.githubuserc
 
 ## The Graph:
 ![graph](https://user-images.githubusercontent.com/39788520/121808825-f47ded00-cc77-11eb-8f90-c68a6a4b8967.png)
+
+
+## Note:
+
+The code provided here contains a comparison between the original function and the function we made using PDE to check if both the graph coincides
