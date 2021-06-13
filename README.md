@@ -4,7 +4,7 @@ The function we used here is: <img src="http://www.sciweavers.org/tex2img.php?eq
 >> Highlights:
 >> 
 >> - Double Derivation is performed on the function f(x,t).
->> - The PDE formed is <img src="https://bit.ly/3ghDK2Y" align="center" border="0" alt="\frac{{\partial}^2 f}{{\partial x}^2} = \frac{{\partial} f}{{\partial} t}" width="76" height="46" />
+>> - The PDE formed is <img src="http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7B%7B%5Cpartial%7D%5E2%20f%7D%7B%7B%5Cpartial%20x%7D%5E2%7D%20%3D%20%5Cfrac%7B%7B%5Cpartial%7D%20f%7D%7B%7B%5Cpartial%7D%20t%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\frac{{\partial}^2 f}{{\partial x}^2} = \frac{{\partial} f}{{\partial} t}" width="76" height="46" />
 >> - Initial Conditions taken as : f(x,0) = sin(x)
 >> - Boundary Conditions taken as: f(0,t) = 0 and f(L,t) = sin(L)*exp(-t)
 
