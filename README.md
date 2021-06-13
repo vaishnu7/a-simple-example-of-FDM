@@ -1,10 +1,13 @@
 # Finite Difference Method
-The function we used here is: <img src="http://www.sciweavers.org/tex2img.php?eq=f%28x%2Ct%29%20%3D%20sin%28x%29%20%5Ctimes%20e%5E%7B%28-t%29%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="f(x,t) = sin(x) \times e^{(-t)}" width="182" height="24" />
+The function we used here is: ![CodeCogsEqn (2)](https://user-images.githubusercontent.com/39788520/121809714-820f0c00-cc7b-11eb-8375-34c234064144.gif)
+
 
 >> Highlights:
 >> 
 >> - Double Derivation is performed on the function f(x,t).
->> - The PDE formed is <img src="http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7B%7B%5Cpartial%7D%5E2%20f%7D%7B%7B%5Cpartial%20x%7D%5E2%7D%20%3D%20%5Cfrac%7B%7B%5Cpartial%7D%20f%7D%7B%7B%5Cpartial%7D%20t%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\frac{{\partial}^2 f}{{\partial x}^2} = \frac{{\partial} f}{{\partial} t}" width="76" height="46" />
+
+>> - The PDE formed is ![CodeCogsEqn (1)](https://user-images.githubusercontent.com/39788520/121809639-3a888000-cc7b-11eb-983f-10d96403a644.gif)
+
 >> - Initial Conditions taken as : f(x,0) = sin(x)
 >> - Boundary Conditions taken as: f(0,t) = 0 and f(L,t) = sin(L)*exp(-t)
 
